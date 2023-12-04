@@ -14,7 +14,8 @@ The story kicks off with the secretive vanishing of a youthful boy named Will By
 ## Characters
 
 - **Eleven:** A mysterious girl with psychokinetic abilities and a shaved head, portrayed by the talented
-- 
+
 - **Mike, Dustin, and Lucas:** Will's friends, played by [Finn Wolfhard](link_to_finn), [Gaten Matarazzo](link_to_gaten), and [Caleb McLaughlin](link_to_caleb), respectively, form the heart of the group.
 
 - **Chief Jim Hopper:** Portrayed by [David Harbour](link_to_david_harbour), he's the town's police chief, drawn into the supernatural mysteries surrounding Hawkins.
+-
